@@ -24,7 +24,7 @@ This repository provides a comprehensive guide and implementation of various sor
 
 ---
 
-### Bubble Sort 💧
+### Bubble Sort 🫧
 - **Purpose**: Steps through the list, compares adjacent elements, and swaps them if necessary.
 - **Benefits**: Easy to understand and implement.
 - **Ideal for**: Educational purposes and small data.
