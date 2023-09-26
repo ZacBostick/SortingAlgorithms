@@ -1,5 +1,3 @@
----
-
 # Sorting Algorithms Overview 🚀
 
 This repository provides a comprehensive guide and implementation of various sorting algorithms. Get to know the ins and outs of each method!
@@ -83,5 +81,3 @@ This repository provides a comprehensive guide and implementation of various sor
 ---
 
 **Note**: The performance of an algorithm can depend on a variety of factors, including machine architecture, compiler optimizations, and more. Always benchmark an algorithm in its target environment before deciding on its appropriateness!
-
----
